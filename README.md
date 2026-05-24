@@ -1026,7 +1026,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 * [OpenLayers](http://openlayers.org)
 * [Polymaps](http://polymaps.org)
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
-* [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) - Restricted airspace, maritime and incident monitoring map. / Kisitli hava sahasi, deniz hareketleri ve olay izleme haritasi
+* [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) - Restricted airspace, maritime and incident monitoring map. / Kısıtlı hava sahası, deniz hareketleri ve olay izleme haritası
 * [Open Street Map](http://www.openstreetmap.org)
 * [QGIS](http://qgis.org)
 * [QuickMaps](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij)
